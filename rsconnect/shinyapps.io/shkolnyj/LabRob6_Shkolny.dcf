@@ -1,0 +1,12 @@
+name: LabRob6_Shkolny
+title: LabRob6_Shkolny
+username:
+account: shkolnyj
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 246193
+bundleId: 1122926
+url: https://shkolnyj.shinyapps.io/LabRob6_Shkolny/
+when: 1512731859.28301
+asMultiple: FALSE
+asStatic: FALSE
